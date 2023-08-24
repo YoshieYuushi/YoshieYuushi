@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <a href="https://github.com/YoshieYuushi#gh-light-mode-only">
   <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YoshieYuushi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true#gh-light-mode-only"/>
