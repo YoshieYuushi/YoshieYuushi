@@ -11,6 +11,8 @@
 ![Header Image](header.svg)
 
 <img src="header.svg" alt="Header Image">
+<img src="b.svg" />
+
 
 <a href="https://github.com/YoshieYuushi">
   <img src = 'https://cdn.acwing.com/media/article/image/2022/07/12/52520_f251725801-typing-github.gif' width="310"/>
