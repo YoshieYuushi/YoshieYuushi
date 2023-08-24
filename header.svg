@@ -17,7 +17,7 @@
         h1 {
           font: bold 200% Consolas, Monaco, monospace;
           border-right: .2em solid white;
-          width: 35ch;
+          width: 31ch;
           margin: 0.05em 1.15em;
           padding-top: 4px;
           white-space: nowrap;
