@@ -15,7 +15,7 @@
 <br>
 
 <a href="https://YoshieYuushi.com">
-  <img src="https://img.shields.io/badge/Author-tonngw-blue" />
+  <img src="https://img.shields.io/badge/Author-YoshieYuushi-blue" />
 </a>
 
 <a href="https://github.com/YoshieYuushi">
