@@ -6,7 +6,7 @@
   <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YoshieYuushi&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only"/>
 </a>-->
 
-<b>Hi, I'm Yushi👋</b>
+<!--<b>Hi, I'm Yushi👋</b>-->
 
 
 <img src="header.svg" alt="Header Image">
