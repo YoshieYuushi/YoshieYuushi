@@ -8,6 +8,8 @@
 
 <b>Hi, I'm Yushi👋</b>
 
+![Header Image](header.svg)
+
 <a href="https://github.com/YoshieYuushi">
   <img src = 'https://cdn.acwing.com/media/article/image/2022/07/12/52520_f251725801-typing-github.gif' width="310"/>
 </a>
