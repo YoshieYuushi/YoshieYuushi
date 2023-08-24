@@ -14,13 +14,13 @@
 
 <br>
 
-<a href="https://YoshieYuushi.com">
+<!--<a href="https://YoshieYuushi.com">
   <img src="https://img.shields.io/badge/Author-YoshieYuushi-blue" />
-</a>
+</a>-->
 
-<a href="https://github.com/YoshieYuushi">
+<!--<a href="https://github.com/YoshieYuushi">
   <img src="https://komarev.com/ghpvc/?username=YoshieYuushi" />
-</a>
+</a>-->
 
 <!-- markdown style -->
 <!--![](https://img.shields.io/badge/Author-tonngw-blue) ![](https://komarev.com/ghpvc/?username=tonngw)-->
