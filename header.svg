@@ -15,7 +15,8 @@
           border-radius: 5px;
         }
         h1 {
-          font: bold 100% Consolas, Monaco, monospace;
+          font-family: Consolas, Monaco, monospace;
+          font-weight: normal;  <!-- フォントの太さを通常に設定 -->
           border-right: .2em solid white;
           width: 33ch;
           margin: 0.05em 1.15em;
