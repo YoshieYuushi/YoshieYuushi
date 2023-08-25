@@ -16,12 +16,12 @@
         }
         h1 {
           font-family: Consolas, Monaco, monospace;
-          font-weight: normal;  <!-- フォントの太さを通常に設定 -->
+          font-weight: normal;
           border-right: .8em solid #26e10b;
           width: 25ch;
           margin: 0.05em 1.15em;
-          padding-top: 12px;  /* 上の余白を調整 */
-          padding-bottom: 12px;  /* 下の余白を調整 */
+          padding-top: 12px;
+          padding-bottom: 12px;
           white-space: nowrap;
           overflow: hidden;
           animation: typing 2s steps(21, end), blink-caret .5s step-end infinite alternate;
